@@ -22,8 +22,8 @@ En el contexto de sistemas dinámicos que describen sistemas biológicos o fisio
 ## Objetivo y descripción del sistema
    La infección por VIH es un trastorno inmunológico caracterizado por la invasión, replicación y destrucción progresiva de los linfocitos T CD4+ en el sistema inmunitario. Con el fin de caracterizar este fenómeno, el siguiente modelo matemático describe la interacción y evolución temporal de tres poblaciones celulares clave a lo largo de 70 días:  
 - Células sanas y(t): Representan la población blanco primordial del virus (principalmente linfocitos T CD4+). Estas células cuentan con una capacidad intrínseca de renovación o crecimiento natural regulada por el parámetro r₃.  
-    - Células afectadas x(t): Son aquellas células inmunitarias que ya han sido colonizadas por el virus y cuya maquinaria molecular ha sido secuestrada. Presentan una tasa de proliferación independiente denotada por r₁.  
-    - Carga viral z(t): Representa los viriones libres en el torrente sanguíneo capaces de perpetuar el ciclo infeccioso , los cuales se replican o ingresan al sistema a una tasa r₅.  
+ - Células afectadas x(t): Son aquellas células inmunitarias que ya han sido colonizadas por el virus y cuya maquinaria molecular ha sido secuestrada. Presentan una tasa de proliferación independiente denotada por r₁.  
+ - Carga viral z(t): Representa los viriones libres en el torrente sanguíneo capaces de perpetuar el ciclo infeccioso , los cuales se replican o ingresan al sistema a una tasa r₅.  
     La dinámica de éstas tres poblaciones está descrita por las siguientes tres EDOs no lineales de primer orden:
 
 	x = r₁x+r₂xyz,
