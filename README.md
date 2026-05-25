@@ -31,13 +31,13 @@ En el contexto de sistemas dinámicos que describen sistemas biológicos o fisio
 	z = r₅z-r₆xz,
 
     
-Los parámetros biológicos que regulan las interacciones del sistema se definen a continuación:
-    r₁=Tasa de proliferación o crecimiento natural de las células infectadas (crecimiento exponencial independiente).
-    r₂=Tasa de amplificación por interacción (Representa cómo la presencia conjunta del virus y una alta densidad de células sanas acelera la regeneración de nuevas células infectadas).
-    r₃= Tasa de regeneración o crecimiento intrínseco de las células sanas.
+Los parámetros biológicos que regulan las interacciones del sistema se definen a continuación:  
+    r₁=Tasa de proliferación o crecimiento natural de las células infectadas (crecimiento exponencial independiente).  
+    r₂=Tasa de amplificación por interacción (Representa cómo la presencia conjunta del virus y una alta densidad de células sanas acelera la regeneración de nuevas células infectadas).  
+    r₃= Tasa de regeneración o crecimiento intrínseco de las células sanas.  
     r₄=Tasa de infección o mortalidad (Es la proporción de células sanas que son destruidas o transformadas al contacto con el virus).
-    r₅=Tasa de replicación natural, liberación o ingreso del virus al sistema.
-    r₆=Tasa de aclaramiento o consumo viral. Representa la cantidad de virus libre que desaparece del medio al interactuar con las células ya infectadas (x), ya sea porque se agota al entrar a ellas o por algún mecanismo de competencia. 
+    r₅=Tasa de replicación natural, liberación o ingreso del virus al sistema.  
+    r₆=Tasa de aclaramiento o consumo viral. Representa la cantidad de virus libre que desaparece del medio al interactuar con las células ya infectadas (x), ya sea porque se agota al entrar a ellas o por algún mecanismo de competencia.   
 
 Palabras clave: Carga Viral, Inestabilidad, Modelado matemático, Poblaciones Celulares, VIH.
 
