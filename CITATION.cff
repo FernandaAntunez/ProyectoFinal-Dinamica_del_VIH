@@ -10,6 +10,10 @@ authors:
     family-names: Antunez
     email: l22211745@tectijuana.edu.mx
     affiliation: TecNM-ITT
+- given-names: 'Carlos'
+    family-names: Ramirez
+    email: l22212267@tectijuana.edu.mx
+    affiliation: TecNM-ITT
 repository-code: 'https://github.com/FernandaAntunez/ProyectoFinal-Dinamica_del_VIH'
 keywords:
   - Carga Viral
