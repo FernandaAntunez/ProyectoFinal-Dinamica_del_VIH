@@ -42,11 +42,11 @@ Los parámetros biológicos que regulan las interacciones del sistema se definen
 Palabras clave: Carga Viral, Inestabilidad, Modelado matemático, Poblaciones Celulares, VIH.
 
 ## Actividades a realizar
-1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
-...
+1. Diseñar una gráfica de los 3 conjuntos de datos y selección	 	
+2. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
+3. Graficar el Modelo y predicción a 2t	  
+4. Calcular equilibrios y estabilidad local
+5. Descripcion del modelo
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
